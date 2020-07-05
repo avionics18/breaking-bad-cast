@@ -2,6 +2,8 @@
 
 # Breaking Bad Cast React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b74a696-13d9-4039-8fc5-6850cf8fb08e/deploy-status)](https://app.netlify.com/sites/breaking-bad-cast-info/deploys)
+
 *Just a simple React App which displays the info of the actors casted in this tv series*
 
 - made using `create-react-app`

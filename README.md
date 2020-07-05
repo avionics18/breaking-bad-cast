@@ -1,6 +1,7 @@
 ![Breaking Bad Logo](https://raw.githubusercontent.com/bradtraversy/breaking-bad-cast/master/src/img/logo.png)
 
-#Breaking Bad Cast React App
+# Breaking Bad Cast React App
+
 *Just a simple React App which displays the info of the actors casted in this tv series*
 
 - made using `create-react-app`

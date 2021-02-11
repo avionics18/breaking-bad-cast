@@ -14,4 +14,4 @@ Live Link : [Click Here](https://breaking-bad-cast-info.netlify.app/)
 - the `Search component` is the most cool one, which fires off an event as soon as there is a change in the text input field and shows the desired output
 - for fetching the data, `axios` is used
 
-![Breaking Bad Cast Project](screenshot.png)
+![Breaking Bad Cast Project](screenshot.jpg)

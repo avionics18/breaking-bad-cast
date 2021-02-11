@@ -4,9 +4,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5b74a696-13d9-4039-8fc5-6850cf8fb08e/deploy-status)](https://app.netlify.com/sites/breaking-bad-cast-info/deploys)
 
-*Just a simple React App which displays the info of the actors casted in this tv series*
+*Just a simple React App which displays the info of the actors casted in this tv series*. Learnt from [Traversy Media](https://github.com/bradtraversy) Tutorials.
 
-Live Link : [Click Here](https://breaking-bad-cast-info.netlify.app/)
+**Live Link** : [Click Here](https://breaking-bad-cast-info.netlify.app/)
 
 - made using `create-react-app`
 - for styling, `Bootstrap CSS` is used
